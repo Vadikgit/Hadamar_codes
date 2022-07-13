@@ -14,7 +14,7 @@ As input, the algorithm takes a sequence of bits for encoding, the size of the u
 
 Input/Output of the program is carried out through the console or text files in accordance with the user's settings.
 
-In the course of its work, the algorithm builds and outputs Hadamard matrices and displays the intermediate results of the coding process. 
+During its work, the algorithm builds and outputs Hadamard matrices and displays the intermediate results of the coding process. 
 
 
 
